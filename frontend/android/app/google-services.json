@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120375509371",
+    "project_id": "mindtuner-8804e",
+    "storage_bucket": "mindtuner-8804e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120375509371:android:e62126104cec497f2c3dde",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWQn2F2Ojs8Ez3ffEkKLWQVmwls3Zb4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
