@@ -220,9 +220,9 @@ class AppStyles {
 
 ## 📞 联系方式
 
-- 项目维护者: Mind Tuner Team
-- 邮箱: support@mindtuner.com
-- 项目链接: [https://github.com/your-username/mind-tuner](https://github.com/your-username/mind-tuner)
+- 项目维护者: YuLing Guo
+- 邮箱: 1825608651@163.com
+- 项目链接: https://github.com/Guo-Yuling/MindTuner
 
 ---
 
